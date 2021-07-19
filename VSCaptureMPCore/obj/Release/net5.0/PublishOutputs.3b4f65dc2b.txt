@@ -1,0 +1,15 @@
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\VSCaptureMPCore.exe
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\VSCaptureMPCore.dll
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\VSCaptureMPCore.deps.json
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\VSCaptureMPCore.runtimeconfig.json
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\VSCaptureMPCore.pdb
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\MQTTnet.dll
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\System.IO.Ports.dll
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Release\net5.0\publish\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VSCaptureMPCore</id>
+    <version>1.0.0</version>
+    <authors>VSCaptureMPCore</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="MQTTnet" version="3.0.16" exclude="Build,Analyzers" />
+        <dependency id="MQTTnet.Extensions.ManagedClient" version="3.0.15" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="5.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Debug\net5.0\VSCaptureMPCore.runtimeconfig.json" target="lib\net5.0\VSCaptureMPCore.runtimeconfig.json" />
+    <file src="C:\Users\johng\Documents\VSCapture Project\Philips connect\VSCaptureMPCorev1.002\VSCaptureMPCore\VSCaptureMPCore\bin\Debug\net5.0\VSCaptureMPCore.dll" target="lib\net5.0\VSCaptureMPCore.dll" />
+  </files>
+</package>

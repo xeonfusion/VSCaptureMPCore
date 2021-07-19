@@ -39,10 +39,10 @@
           "lib/net5.0/MQTTnet.dll": {}
         }
       },
-      "MQTTnet.Extensions.ManagedClient/3.0.15": {
+      "MQTTnet.Extensions.ManagedClient/3.0.16": {
         "type": "package",
         "dependencies": {
-          "MQTTnet": "3.0.15"
+          "MQTTnet": "3.0.16"
         },
         "compile": {
           "lib/net5.0/MQTTnet.Extensions.ManagedClient.dll": {}
@@ -194,10 +194,10 @@
           "lib/net5.0/MQTTnet.dll": {}
         }
       },
-      "MQTTnet.Extensions.ManagedClient/3.0.15": {
+      "MQTTnet.Extensions.ManagedClient/3.0.16": {
         "type": "package",
         "dependencies": {
-          "MQTTnet": "3.0.15"
+          "MQTTnet": "3.0.16"
         },
         "compile": {
           "lib/net5.0/MQTTnet.Extensions.ManagedClient.dll": {}
@@ -354,10 +354,10 @@
         "mqttnet.nuspec"
       ]
     },
-    "MQTTnet.Extensions.ManagedClient/3.0.15": {
-      "sha512": "QySgOyruOc+oLedf2bQ91VXPdNuXNcGR+jJ1WKNC72/TdVxE/8NnXxEFPHTUJTkvjOqSVde41d4nEVikbZU/nA==",
+    "MQTTnet.Extensions.ManagedClient/3.0.16": {
+      "sha512": "rjtHYtYf+1JNLksZrKp2dvgT5pYe5+XTAoF8koRlK3s+kkUFykSecSleH7QCTaaPWCy8N7xoTSXS1v94pYGzhw==",
       "type": "package",
-      "path": "mqttnet.extensions.managedclient/3.0.15",
+      "path": "mqttnet.extensions.managedclient/3.0.16",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -375,7 +375,7 @@
         "lib/netstandard2.1/MQTTnet.Extensions.ManagedClient.dll",
         "lib/uap10.0/MQTTnet.Extensions.ManagedClient.dll",
         "lib/uap10.0/MQTTnet.Extensions.ManagedClient.pri",
-        "mqttnet.extensions.managedclient.3.0.15.nupkg.sha512",
+        "mqttnet.extensions.managedclient.3.0.16.nupkg.sha512",
         "mqttnet.extensions.managedclient.nuspec"
       ]
     },
@@ -604,7 +604,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "MQTTnet >= 3.0.16",
-      "MQTTnet.Extensions.ManagedClient >= 3.0.15",
+      "MQTTnet.Extensions.ManagedClient >= 3.0.16",
       "System.IO.Ports >= 5.0.1"
     ]
   },
@@ -653,7 +653,7 @@
           },
           "MQTTnet.Extensions.ManagedClient": {
             "target": "Package",
-            "version": "[3.0.15, )"
+            "version": "[3.0.16, )"
           },
           "System.IO.Ports": {
             "target": "Package",
